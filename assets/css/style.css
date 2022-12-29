@@ -1,0 +1,48 @@
+
+.all div{
+    height: 250px;
+    border: 1px solid blue;
+    margin-bottom: 15px;
+    overflow : hidden;
+
+}
+.redrose img {
+    height: 250px;
+    object-fit: cover;
+    width:100%;
+    margin-bottom:15px;
+
+}
+.pinkrose img {
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;
+}
+.yellowrose img{
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;  
+}
+.whiterose img{
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;  
+}
+.bluerose img {
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;  
+}  
+
+
+
+
+
+
+
+
+
